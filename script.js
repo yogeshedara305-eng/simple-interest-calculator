@@ -11,9 +11,5 @@ function btn_click(){
         para=document.querySelector("#result").textContent=`Interest is:${(p*r*t)/100}`
  }
 }
-function reset_btn(){
-     var p=document.querySelector('#pri').innerHTML=""
-    var r=document.querySelector('#rate').innerHTML=""
-    var t=document.querySelector('#time').innerHTML=""
-}
+
 
