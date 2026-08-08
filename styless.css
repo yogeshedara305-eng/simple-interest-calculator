@@ -1,0 +1,44 @@
+.continer{
+    width:30%;
+   margin:140px auto;
+   background-color: whitesmoke;
+   padding: 30px;
+   border-radius: 30px;
+}
+body{
+    background-color: aquamarine;
+    scroll-behavior: smooth;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ .btn button{
+    margin-top:15px;
+    width:100px;
+    padding:8px
+    
+ }
+#pri{
+    border:none;
+    width: 200px;
+    height: 30px;
+    outline: none;
+}
+#rate{
+    border:none;
+     width: 200px;
+    height: 30px;
+    outline: none;
+}
+#time{
+    border:none;
+     width: 200px;
+    height: 30px;
+    outline: none;
+}
+#result{
+    text-align: center;
+}
